@@ -6,7 +6,7 @@ class Solution {
             return 0;
         }
         
-        if(dp[i][j]!=-0){
+        if(dp[i][j]!=0){
             return dp[i][j];
         }
         
