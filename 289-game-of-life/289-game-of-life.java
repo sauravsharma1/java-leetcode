@@ -42,7 +42,7 @@ class Solution {
                 if(board[i][j]==-2){
                     board[i][j]=0;
                 }
-                if(board[i][j]==3){
+                else if(board[i][j]==3){
                     board[i][j]=1;
                 }
                 
