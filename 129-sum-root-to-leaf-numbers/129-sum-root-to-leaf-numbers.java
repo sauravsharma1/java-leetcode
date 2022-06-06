@@ -23,7 +23,7 @@ class Solution {
     
     private void sumc(TreeNode root,int sumc){
         
-        if(root==null&&root==null){
+        if(root==null){
             return;
         }
         
